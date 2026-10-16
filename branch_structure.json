@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-708-add-e2e-test-suite",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-708-add-e2e-test-suite": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-708-add-e2e-test-suite",
+    "origin"
+  ]
+}
